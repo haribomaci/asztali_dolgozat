@@ -26,7 +26,7 @@ public class Maincon {
     public void start() {
         ArrayList<City> cities = this.restapi.getCities();
         for (City city : cities) {
-            System.out.printf("%10s %12s %6.2f\n",
+            System.out.printf(
                     city.city,
                     city.address,
                     city.size,
