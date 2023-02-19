@@ -1,0 +1,1 @@
+## Dolgozat: Java konzolos, vagy GUI program írása
